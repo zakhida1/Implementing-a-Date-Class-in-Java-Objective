@@ -2,7 +2,9 @@
 
 #Date Class in Java
 
-This project implements a Date class in Java providing different date related operations such as validation,updating,calculating differences,getting the day of the week and sorting
+This project implements a comprehensive Date class in Java that shows calendar dates with day,month and year components.The class provides functionality to validate dates perform date calculations,determine the day of the week,compare dates and format date output.The implementation also shows how to sort a collection of date objects
+
+
 
 ##Features
 * Validate if a date is correct
