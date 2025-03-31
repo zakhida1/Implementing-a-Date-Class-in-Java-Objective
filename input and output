@@ -1,11 +1,11 @@
-Input:
+#Input:
 
 Enter number of dates: 3
 12 3 2022
 25 12 2021
 7 8 2020
 
-Output:
+#Output:
 
 Unsorted Dates:
 MARCH 12, 2022
@@ -16,6 +16,27 @@ Sorted Dates:
 AUGUST 7, 2020
 DECEMBER 25, 2021
 MARCH 12, 2022
+
+##Input:
+
+Enter number of dates: 3
+Enter day, month, and year (e.g., 12 3 2022): 15 5 2021
+Enter day, month, and year (e.g., 12 3 2022): 30 10 2019
+Enter day, month, and year (e.g., 12 3 2022): 1 1 2022
+
+
+##Output:
+
+Unsorted Dates:
+MAY 15, 2021
+OCTOBER 30, 2019
+JANUARY 1, 2022
+
+Sorted Dates:
+OCTOBER 30, 2019
+MAY 15, 2021
+JANUARY 1, 2022
+
 
 
 
